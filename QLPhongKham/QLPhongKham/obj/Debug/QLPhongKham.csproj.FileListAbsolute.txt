@@ -2,3 +2,8 @@ D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.AssemblyRefe
 D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.Properties.Resources.resources
 D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.GenerateResource.cache
 D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.CoreCompileInputs.cache
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe.config
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.exe
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\bin\Debug\QLPhongKham.pdb
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.exe
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.pdb

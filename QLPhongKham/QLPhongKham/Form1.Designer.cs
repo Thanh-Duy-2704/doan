@@ -1,4 +1,7 @@
-﻿namespace QLPhongKham
+﻿using System;
+using System.Windows.Forms;
+
+namespace QLPhongKham
 {
     partial class Form1
     {
@@ -107,6 +110,36 @@
 
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void thuocToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void loaiThuocToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void benhNhanToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
+        private void bacSiToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            throw new NotImplementedException();
+        }
+
         #endregion
 
         private System.Windows.Forms.MenuStrip menuStrip1;
@@ -115,6 +148,7 @@
         private System.Windows.Forms.ToolStripMenuItem benhNhanToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem loaiThuocToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem thuocToolStripMenuItem;
+        private ToolStripItem phieuKhamToolStripMenuItem;
     }
 }
 
