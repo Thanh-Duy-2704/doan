@@ -1,0 +1,4 @@
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.AssemblyReference.cache
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.Properties.Resources.resources
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.GenerateResource.cache
+D:\DA MNM\doan\QLPhongKham\QLPhongKham\obj\Debug\QLPhongKham.csproj.CoreCompileInputs.cache
